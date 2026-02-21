@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am preparing for an IT job, working Network+, Security+. <br>I'm currently studying Rust for embedded systems and preparing for a degree in Mechatronics in Germany. 
+I am preparing for an IT job, working on Network+, Security+. <br>I'm currently studying Rust for embedded systems and preparing for a degree in Mechatronics in Germany. 
 
 
 # 💻 Tech Stack:

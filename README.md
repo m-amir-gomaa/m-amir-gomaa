@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-I am preparing for a DevOps position, working on certs or at least the pratical and theoretical knowledge obtained via studying for them. <br>I'm currently studying Rust for embedded systems for fun, future usage, paradigm shifts and benefits offered by learning Rust, and preparing for IT-Ausbildung.
+I am preparing for a DevOps position, working on certs or at least the pratical and theoretical knowledge obtained via studying for them. <br>I'm currently studying Rust for NeoVex and a German pronunciation CLI app written in Rust future usage, paradigm shifts and benefits offered by learning Rust, and perhaps just for fun too, and preparing for IT-Ausbildung.
 
 # 💻 Tech Stack:
 
